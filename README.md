@@ -1,6 +1,6 @@
 # Hi, I'm Hima K P 👋
 
-### Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau
+### Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau| R
 
 I'm an aspiring Data Analyst interested in transforming raw data into meaningful insights that support better business decisions.
 
