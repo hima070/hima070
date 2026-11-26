@@ -18,9 +18,13 @@ I'm an aspiring Data Analyst interested in transforming raw data into meaningful
 - Business Intelligence and Reporting
 
 ## 🎓 About Me
-- Background in Economics and Business Analytics
-- Building practical data analytics projects
-- Open to Data Analytics Internship opportunities
+- B- Economics Graduate with a PG Diploma in Data and Business Analytics.
+- Passionate about Data Analytics and Business Intelligence.
+- Building practical projects using Python, SQL, Excel, Power BI and Tableau.
+- Interested in Data Cleaning, Exploratory Data Analysis, Data Visualization and Dashboard Development.
+- Continuously learning and improving my analytical and technical skills.
+
+Turning data into meaningful insights through continuous learning and practical projects.
 
 ## 📁 Projects
 Project repositories will be added here as I organize and publish my work.
